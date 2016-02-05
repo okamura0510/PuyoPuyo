@@ -1,9 +1,9 @@
 # PuyoPuyo
 
-![demo](https://github.com/okamura0510/PuyoPuyo/blob/master/demo.gif)
-
 Cocos2d-x で作成したぷよぷよモドキ。  
-ぷよぷよは小学生頃にはまった大好きなゲームです☆
+ぷよぷよは小学生頃にはまった大好きなゲームです☆  
+
+![demo](https://github.com/okamura0510/PuyoPuyo/blob/master/demo.gif)
 
 ## Requirement
 
