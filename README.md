@@ -1,6 +1,6 @@
 # PuyoPuyo
 
-Cocos2d-x で作成したぷよぷよモドキ。  
+Cocos2d-x で作成したぷよぷよ。  
 ぷよぷよは小学生頃にはまった大好きなゲームです☆  
 
 ![demo](https://github.com/okamura0510/PuyoPuyo/blob/master/demo.gif)
