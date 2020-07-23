@@ -31,7 +31,3 @@ Windows7
 
 * バーチャルキーボード  
 実機の場合はこれを使用
-
-## Author
-
-http://okamura0510.jp
